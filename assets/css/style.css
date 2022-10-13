@@ -13,7 +13,6 @@
 .contenido {
   grid-area: contenido;
 }
-
 .rodapie {
   grid-area: rodapie;
 }
