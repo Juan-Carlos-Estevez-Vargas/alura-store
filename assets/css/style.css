@@ -7,6 +7,7 @@
   grid-template-rows: 50px auto auto;
 }
 
+/* ------ Encabezado de la Página ------ */
 .header {
   align-items: center;
   display: flex;
@@ -20,10 +21,12 @@
 .menu__link:hover,
 .activo {
   border-bottom: 2px solid #0073e6;
-}
+} /* ------ Encabezado de la Página ------ */
+
 .contenido {
   grid-area: contenido;
 }
+
 .footer {
   background-color: #fdfdfd;
   color: #333;
